@@ -1,0 +1,25 @@
+html {
+    background: linear-gradient(to right, #f2994a, #f2c94c);
+}
+
+div h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+button {
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    width: auto;
+    font-size: 30px;
+    background: rgb(35, 161, 35);
+    transition: ease-out 0.3s;
+}
+
+button:hover {
+    cursor: pointer;
+    padding: 15px;
+    width: auto;
+    transition: ease-in 0.3s;
+}
